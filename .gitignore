@@ -172,3 +172,10 @@ ICLR2022-OpenReviewData/
 templates/*/run_0/
 templates/*/*.png
 results/*
+# LaTeX auxiliary files
+*.aux
+*.out
+*.log
+*.toc
+*.bbl
+*.blg
